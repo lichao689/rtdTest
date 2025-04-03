@@ -7,6 +7,8 @@
 # website: http://jupyter.org/
 
 .DS_Store
+.vscode/
+.cursor/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
