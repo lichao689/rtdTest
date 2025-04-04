@@ -33,3 +33,6 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+# 关闭“查看页面源代码”链接
+html_show_sourcelink = False
