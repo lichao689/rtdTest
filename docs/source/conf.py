@@ -39,6 +39,6 @@ html_show_sourcelink = False
 
 # 添加自定义CSS文件
 html_css_files = [
-    'custom.css',
+    '../_static/custom.css',
 ]
 
