@@ -30,6 +30,6 @@ Contents
 
    usage
    api
-   intrests
+   interests
    people
 
