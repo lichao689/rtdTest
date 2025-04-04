@@ -20,7 +20,7 @@ and offers a *simple* and *intuitive* API.
 
 **test**
 
-Check out the :doc:`usage` section for further information, including
+Check out the :doc:`NumericalWindTunnel` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
@@ -37,6 +37,7 @@ Contents
    WindResistance
    OffshoreWindTurbine
    People
+   usage
    api
 
 Publication
