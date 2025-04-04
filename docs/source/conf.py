@@ -36,3 +36,9 @@ epub_show_urls = 'footnote'
 
 # 关闭“查看页面源代码”链接
 html_show_sourcelink = False
+
+# 添加自定义CSS文件
+html_css_files = [
+    'custom.css',
+]
+
