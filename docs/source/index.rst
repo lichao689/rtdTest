@@ -36,6 +36,7 @@ Contents
    NumericalWindTunnel
    WindResistance
    OffshoreWindTurbine
+   Projects
    People
    usage
    api
