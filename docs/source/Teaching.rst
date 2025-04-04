@@ -2,18 +2,23 @@
 ========================
 
 
-1. 【本科 Undergraduate】工程流体力学 Engineering Fluid Mechanics
+1. 本科生 Undergraduate
 ---------------------------------------------------------------------------
 
+  工程流体力学(Engineering Fluid Mechanics)
     春季学期，32学时，土木工程专业本科生。
 
 
-2. 【研究生 Graduate】风工程 Wind Engineering
+2. 研究生 Graduate
 ----------------------------------------------
 
+风工程(Wind Engineering)
 
 
-3. 【研究生 Graduate】结构风洞试验 Structural Wind Tunnel Test
+结构风洞试验(Wind Tunnel Testing for Civil Structures)
+
+
+1. 【研究生 Graduate】
 ----------------------------------------------------------------
 
 
