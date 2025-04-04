@@ -9,6 +9,7 @@
 .DS_Store
 .vscode/
 .cursor/
+bak/
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*

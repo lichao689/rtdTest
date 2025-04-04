@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Wind Ocean Energy + AI'
+project = 'Wind Ocean Energy plus AI'
 copyright = '2025, Li Chao Group'
 author = 'Li Chao'
 
