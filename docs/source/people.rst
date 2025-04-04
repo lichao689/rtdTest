@@ -2,12 +2,6 @@
 =====
 
 
-教师
-------------
-
-To use Lumache, first install it using pip:
-
-
 博士生
 ----------------
 
@@ -22,6 +16,8 @@ For example:
 
 毕业博士
 ----------------
+
+
 
 
 毕业硕士

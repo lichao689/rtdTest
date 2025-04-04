@@ -30,8 +30,12 @@ Contents
 
 .. toctree::
 
+   Teaching
+   NumericalWindTunnel
+   WindResistance
+   OffshoreWindTurbine
+   People
    usage
    api
-   interests
-   people
+   
 
