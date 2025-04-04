@@ -1,16 +1,29 @@
-Usage
+成员
 =====
 
 
-Installation
+教师
 ------------
 
 To use Lumache, first install it using pip:
 
 
-Creating recipes
+博士生
 ----------------
 
 For example:
 
+
+硕士生
+----------------
+
+For example:
+
+
+毕业博士
+----------------
+
+
+毕业硕士
+----------------
 
