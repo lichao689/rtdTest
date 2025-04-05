@@ -1,4 +1,4 @@
-海上风电 Offshore Wind Turbine
+海上风电 Offshore Wind Energy
 ================================
 
 

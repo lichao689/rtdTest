@@ -60,14 +60,10 @@ how to :ref:`installation` the project.
    Teaching
    NumericalWindTunnel
    WindResistance
-   OffshoreWindTurbine
+   OffshoreWindEnergy
    Projects
    Publications
    People
    usage
    api
-
-Publication
-----------------
-
 

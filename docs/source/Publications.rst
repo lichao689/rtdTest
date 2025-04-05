@@ -1,4 +1,4 @@
-发表论文 Publications
+论文成果 Publications
 ========================
 
 期刊论文 Journal Papers
