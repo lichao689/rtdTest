@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Wind & Ocean Engineering plus AI'
+project = 'Wind & Ocean Engineering empowered by AI'  
 copyright = '2025, Li Chao Group'
 author = 'Li Chao'
 
@@ -33,7 +33,7 @@ html_theme = 'sphinx_rtd_theme'
 
 
 html_logo = "../_static/logo.svg"  # Logo 文件需放置于 _static 目录
-html_title = "Wind & Ocean Engineering<br><span style='color: #666;'>plus</span><br><span style='color: #666;'>AI</span>"
+html_title = "Wind & Ocean Engineering<br><span style='color: #666;'>empowered by</span><br><span style='color: #666;'>AI</span>"
 
 # -- Options for EPUB output
 # epub_show_urls = 'footnote'
