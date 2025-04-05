@@ -26,16 +26,18 @@ Welcome to Wind & Ocean Engineering empowered by AI Group!
 
 博士后 1-2名/年。
 
-欢迎踏实上进，有强烈求知欲望，创新探索精神，愿意为工程技术创新付出努力的同学加入。
+.. note::
+   欢迎踏实上进，有强烈求知欲望，创新探索精神，愿意为工程技术创新付出努力的同学加入。
 
 专业领域 Professional Field
 ==============================
 
 :doc:`NumericalWindTunnel`
+
 :doc:`WindResistance`
+
 :doc:`OffshoreWindTurbine`
 
-城镇风环境等。
 
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
