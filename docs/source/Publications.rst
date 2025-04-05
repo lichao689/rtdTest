@@ -1,4 +1,4 @@
-论文成果 Publications
+研究成果 Publications
 ========================
 
 期刊论文 Journal Papers
@@ -13,7 +13,7 @@
 
 .. _ref-tang20250:
 
-[60] Tang Ao; *Li Chao*; Yang Junhui; Zhang Heqiang; Zheng Qingxing; Zhang Jianjun, Training and application of graph neural networks for predicting structural responses targeted at tall building structures[J]. **Journal of Building Engineering**, 2025, 103: 112131. https://doi.org/10.1016/j.jobe.2025.112131. 影响因子: 6.7 (Q1). 中科院分区: 2.
+[60] Tang Ao; *Li Chao**; Yang Junhui; Zhang Heqiang; Zheng Qingxing; Zhang Jianjun, Training and application of graph neural networks for predicting structural responses targeted at tall building structures[J]. **Journal of Building Engineering**, 2025, 103: 112131. https://doi.org/10.1016/j.jobe.2025.112131. 影响因子: 6.7 (Q1). 中科院分区: 2.
 
 
 2024
@@ -21,11 +21,11 @@
 
 .. _ref-zhang20240:
 
-[59] Zhang Dongqin; Liu Zhenqing; Liang Yang; *Li Chao*; Zhang Jize; Hu Gang, Bilevel optimization of non-uniform offshore wind farm layout and cable routing for the refined LCOE using an enhanced PSO[J]. **Ocean Engineering**, 2024, 299: 117244. https://doi.org/10.1016/j.oceaneng.2024.117244. 影响因子: 4.6 (Q1). 中科院分区: 2. 引用次数: 5 citation(s).
+[59] Zhang Dongqin; Liu Zhenqing*; Liang Yang; *Li Chao*; Zhang Jize; Hu Gang, Bilevel optimization of non-uniform offshore wind farm layout and cable routing for the refined LCOE using an enhanced PSO[J]. **Ocean Engineering**, 2024, 299: 117244. https://doi.org/10.1016/j.oceaneng.2024.117244. 影响因子: 4.6 (Q1). 中科院分区: 2. 引用次数: 5 citation(s).
 
 .. _ref-wang20240:
 
-[58] Wang Jinghan; *Li Chao*; Chen Lingwei; Zhou Shengtao*; Hu Gang; Ou Jinping, A new controllable weak recycling inflow turbulence generator for evaluating wind effects on building in LES[J]. **Engineering Structures**, 2024, 318: 118742. https://doi.org/10.1016/j.engstruct.2024.118742. 影响因子: 5.6 (Q1). 中科院分区: 1.
+[58] Wang Jinghan; *Li Chao**; Chen Lingwei; Zhou Shengtao*; Hu Gang; Ou Jinping, A new controllable weak recycling inflow turbulence generator for evaluating wind effects on building in LES[J]. **Engineering Structures**, 2024, 318: 118742. https://doi.org/10.1016/j.engstruct.2024.118742. 影响因子: 5.6 (Q1). 中科院分区: 1.
 
 .. _ref-tang20240:
 
@@ -37,11 +37,11 @@
 
 .. _ref-liu20241:
 
-[55] Liu Shizeng; Zhang Wentong; Li Qiang; Yan Shicheng; Zhang Shihong; *Li Chao*; Li Lixiao, Dynamic Failure Mode Analysis for a Transmission Tower-Line System Induced by Strong Winds[J]. **Energies**, 2024, 17(18): 4679. https://doi.org/10.3390/en17184679. 影响因子: 3 (Q3). 中科院分区: 4. 引用次数: 2 citation(s).
+[55] Liu Shizeng; Zhang Wentong*; Li Qiang; Yan Shicheng; Zhang Shihong; *Li Chao*; Li Lixiao, Dynamic Failure Mode Analysis for a Transmission Tower-Line System Induced by Strong Winds[J]. **Energies**, 2024, 17(18): 4679. https://doi.org/10.3390/en17184679. 影响因子: 3 (Q3). 中科院分区: 4. 引用次数: 2 citation(s).
 
 .. _ref-li20240:
 
-[54] *Li Chao*; Chen Lingwei; Wang Jinghan; Zhang Wentong; Wang Xiangjie; Wang Zhuoran; Hu Gang, A novel vector potential random flow generation method for synthesizing divergence-free homogeneous isotropic turbulence with arbitrary spectra[J]. **Physics of Fluids**, 2024, 36(3): 035127. https://doi.org/10.1063/5.0194006. 影响因子: 4.1 (Q1). 中科院分区: 2. 引用次数: 1 citation(s).
+[54] *Li Chao*; Chen Lingwei*; Wang Jinghan; Zhang Wentong; Wang Xiangjie; Wang Zhuoran; Hu Gang, A novel vector potential random flow generation method for synthesizing divergence-free homogeneous isotropic turbulence with arbitrary spectra[J]. **Physics of Fluids**, 2024, 36(3): 035127. https://doi.org/10.1063/5.0194006. 影响因子: 4.1 (Q1). 中科院分区: 2. 引用次数: 1 citation(s).
 
 .. _ref-jiang20240:
 
@@ -49,15 +49,15 @@
 
 .. _ref-he20240:
 
-[52] He Xin; *Li Chao*; Chen Lingwei; Yang Junhui; Hu Gang; Ou Jinping, Numerical research on nonlinear liquid sloshing and vibration control performance of tuned liquid damper[J]. **Journal of Building Engineering**, 2024, 96: 110660. https://doi.org/10.1016/j.jobe.2024.110660. 影响因子: 6.7 (Q1). 中科院分区: 2. 引用次数: 4 citation(s).
+[52] He Xin; *Li Chao**; Chen Lingwei; Yang Junhui; Hu Gang; Ou Jinping, Numerical research on nonlinear liquid sloshing and vibration control performance of tuned liquid damper[J]. **Journal of Building Engineering**, 2024, 96: 110660. https://doi.org/10.1016/j.jobe.2024.110660. 影响因子: 6.7 (Q1). 中科院分区: 2. 引用次数: 4 citation(s).
 
 .. _ref-chen20240:
 
-[51] Chen Lingwei; *Li Chao*; Wang Jinghan; He Xin; Wang Xiangjie; Hu Gang; Wang Xiaolu, Comparing methods for reducing artificial pressure fluctuations using large eddy simulation in high-rise building wind load assessment[J]. **Physics of Fluids**, 2024, 36(12): 127120. https://doi.org/10.1063/5.0240163. 影响因子: 4.1 (Q1). 中科院分区: 2.
+[51] Chen Lingwei; *Li Chao**; Wang Jinghan; He Xin; Wang Xiangjie; Hu Gang; Wang Xiaolu, Comparing methods for reducing artificial pressure fluctuations using large eddy simulation in high-rise building wind load assessment[J]. **Physics of Fluids**, 2024, 36(12): 127120. https://doi.org/10.1063/5.0240163. 影响因子: 4.1 (Q1). 中科院分区: 2.
 
 .. _ref-chen20241:
 
-[50] Chen Lingwei; *Li Chao*; Wang Jinghan; Hu Gang; Xiao Yiqing, A coherence-improved and mass-balanced inflow turbulence generation method for large eddy simulation[J]. **Journal of Computational Physics**, 2024, 498: 112706. https://doi.org/10.1016/j.jcp.2023.112706. 影响因子: 3.8 (Q1). 中科院分区: 2. 引用次数: 5 citation(s).
+[50] Chen Lingwei; *Li Chao**; Wang Jinghan; Hu Gang; Xiao Yiqing, A coherence-improved and mass-balanced inflow turbulence generation method for large eddy simulation[J]. **Journal of Computational Physics**, 2024, 498: 112706. https://doi.org/10.1016/j.jcp.2023.112706. 影响因子: 3.8 (Q1). 中科院分区: 2. 引用次数: 5 citation(s).
 
 .. _ref-li20241:
 
@@ -70,23 +70,23 @@
 
 .. _ref-zhou20230:
 
-[48] Zhou Shengtao; *Li Chao*; Xiao Yiqing; Wang Xiaolu; Xiang Wenyuan; Sun Qing, Evaluation of floating wind turbine substructure designs by using long-term dynamic optimization[J]. **Applied Energy**, 2023, 352: 121941. https://doi.org/10.1016/j.apenergy.2023.121941. 影响因子: 10.1 (Q1). 中科院分区: 1. 引用次数: 4 citation(s).
+[48] Zhou Shengtao; *Li Chao**; Xiao Yiqing; Wang Xiaolu; Xiang Wenyuan; Sun Qing, Evaluation of floating wind turbine substructure designs by using long-term dynamic optimization[J]. **Applied Energy**, 2023, 352: 121941. https://doi.org/10.1016/j.apenergy.2023.121941. 影响因子: 10.1 (Q1). 中科院分区: 1. 引用次数: 4 citation(s).
 
 .. _ref-zheng20230:
 
-[47] Zheng Shunyun; *Li Chao*; Xiao Yiqing, Efficient optimization design method of jacket structures for offshore wind turbines[J]. **Marine Structures**, 2023, 89: 103372. https://doi.org/10.1016/j.marstruc.2023.103372. 影响因子: 4 (Q1). 中科院分区: 2. 引用次数: 8 citation(s).
+[47] Zheng Shunyun; *Li Chao**; Xiao Yiqing, Efficient optimization design method of jacket structures for offshore wind turbines[J]. **Marine Structures**, 2023, 89: 103372. https://doi.org/10.1016/j.marstruc.2023.103372. 影响因子: 4 (Q1). 中科院分区: 2. 引用次数: 8 citation(s).
 
 .. _ref-zheng20231:
 
-[46] Zheng Shunyun; *Li Chao*; Wang Peicen; Zhou Shengtao; Xiao Yiqing, Wind tunnel and wave flume testing on directionality dynamic responses of a 10 MW Y-shaped semi-submersible wind turbine[J]. **Journal of Renewable and Sustainable Energy**, 2023, 15(1): 013305. https://doi.org/10.1063/5.0131279. 影响因子: 1.9 (Q4). 中科院分区: 4. 引用次数: 3 citation(s).
+[46] Zheng Shunyun; *Li Chao**; Wang Peicen; Zhou Shengtao; Xiao Yiqing, Wind tunnel and wave flume testing on directionality dynamic responses of a 10 MW Y-shaped semi-submersible wind turbine[J]. **Journal of Renewable and Sustainable Energy**, 2023, 15(1): 013305. https://doi.org/10.1063/5.0131279. 影响因子: 1.9 (Q4). 中科院分区: 4. 引用次数: 3 citation(s).
 
 .. _ref-zhao20230:
 
-[45] Zhao Zihan; Xiao Yiqing; *Li Chao*; Chan P W; Hu Gang; Zhou Qingfeng, Multiscale simulation of the urban wind environment under typhoon weather conditions[J]. **Building Simulation**, 2023, 16(9): 1713–1734. https://doi.org/10.1007/s12273-023-0991-7. 影响因子: 6.1 (Q1). 中科院分区: 1. 引用次数: 11 citation(s).
+[45] Zhao Zihan; Xiao Yiqing; *Li Chao**; Chan P W; Hu Gang; Zhou Qingfeng, Multiscale simulation of the urban wind environment under typhoon weather conditions[J]. **Building Simulation**, 2023, 16(9): 1713–1734. https://doi.org/10.1007/s12273-023-0991-7. 影响因子: 6.1 (Q1). 中科院分区: 1. 引用次数: 11 citation(s).
 
 .. _ref-zhang20230:
 
-[44] Zhang Wentong; *Li Chao*; Liu Gaixia; Xiao Yiqing, Reconstruction of dynamic wind forces on a transmission steel lattice tower using aeroelastic wind tunnel test data[J]. **Engineering Structures**, 2023, 275: 115167. https://doi.org/10.1016/j.engstruct.2022.115167. 影响因子: 5.6 (Q1). 中科院分区: 1. 引用次数: 5 citation(s).
+[44] Zhang Wentong; *Li Chao**; Liu Gaixia; Xiao Yiqing*, Reconstruction of dynamic wind forces on a transmission steel lattice tower using aeroelastic wind tunnel test data[J]. **Engineering Structures**, 2023, 275: 115167. https://doi.org/10.1016/j.engstruct.2022.115167. 影响因子: 5.6 (Q1). 中科院分区: 1. 引用次数: 5 citation(s).
 
 .. _ref-zhang20231:
 
