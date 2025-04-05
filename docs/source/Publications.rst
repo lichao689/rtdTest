@@ -172,7 +172,7 @@
 
 .. _ref-wang20210:
 
-[24] Wang Qiulei; Jiang Qi; Hu Gang; Chen Xiao; **Li Chao**; Xiao Yiqing, Aerodynamic characteristics of a square cylinder with corner fins[J]. ***Advances in Bridge Engineering*, 2021, 2(1): 20. https://doi.org/10.1186/s43251-021-00042-x. 影响因子: 0. 中科院分区: 0. 引用次数: 8 citation(s).
+[24] Wang Qiulei; Jiang Qi; Hu Gang; Chen Xiao; **Li Chao**; Xiao Yiqing, Aerodynamic characteristics of a square cylinder with corner fins[J]. ***Advances in Bridge Engineering***, 2021, 2(1): 20. https://doi.org/10.1186/s43251-021-00042-x. 影响因子: 0. 中科院分区: 0. 引用次数: 8 citation(s).
 
 .. _ref-lin20210:
 
