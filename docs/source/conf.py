@@ -33,10 +33,10 @@ html_theme = 'sphinx_rtd_theme'
 
 
 html_logo = "../_static/logo.svg"  # Logo 文件需放置于 _static 目录
-html_title = "Wind & Ocean Engineering<br>plus<br>AI"
+html_title = "Wind & Ocean Engineering<br><span style='color: #666;'>plus</span><br><span style='color: #666;'>AI</span>"
 
 # -- Options for EPUB output
-epub_show_urls = 'footnote'
+# epub_show_urls = 'footnote'
 
 # 关闭“查看页面源代码”链接
 html_show_sourcelink = False
