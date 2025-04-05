@@ -31,6 +31,10 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
+
+html_logo = "_static/logo.png"  # Logo 文件需放置于 _static 目录
+html_title = "Wind & Ocean Engineering<br>plus<br>AI"
+
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
