@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Wind & Ocean Engineering empowered by AI'  
-copyright = '2025, Li Chao Group'
+copyright = '2025, Wind & Ocean Engineering empowered by AI Group'
 author = 'Li Chao'
 
 release = '0.1'
