@@ -9,11 +9,11 @@
 
 .. _ref-zhao20250:
 
-[61] Zhao Peisheng; **Li Chao**; Jiang Jianxun; Chen Lingwei; Wang Xiaolu, A novel framework utilizing 3D Gaussian Splatting to construct building geometry for urban wind simulations[J]. ***Sustainable Cities and Society***, 2025, 123: 106237. https://doi.org/10.1016/j.scs.2025.106237. 影响因子: 10.5 (Q1). 中科院分区: 1.
+[61] Zhao Peisheng; **Li Chao**; Jiang Jianxun; Chen Lingwei; Wang Xiaolu*, A novel framework utilizing 3D Gaussian Splatting to construct building geometry for urban wind simulations[J]. ***Sustainable Cities and Society***, 2025, 123: 106237. https://doi.org/10.1016/j.scs.2025.106237. 影响因子: 10.5 (Q1). 中科院分区: 1.
 
 .. _ref-tang20250:
 
-[60] Tang Ao; **Li Chao**; Yang Junhui; Zhang Heqiang; Zheng Qingxing; Zhang Jianjun, Training and application of graph neural networks for predicting structural responses targeted at tall building structures[J]. ***Journal of Building Engineering***, 2025, 103: 112131. https://doi.org/10.1016/j.jobe.2025.112131. 影响因子: 6.7 (Q1). 中科院分区: 2.
+[60] Tang Ao; **Li Chao***; Yang Junhui; Zhang Heqiang; Zheng Qingxing; Zhang Jianjun, Training and application of graph neural networks for predicting structural responses targeted at tall building structures[J]. ***Journal of Building Engineering***, 2025, 103: 112131. https://doi.org/10.1016/j.jobe.2025.112131. 影响因子: 6.7 (Q1). 中科院分区: 2.
 
 
 2024
@@ -25,15 +25,15 @@
 
 .. _ref-wang20240:
 
-[58] Wang Jinghan; **Li Chao**; Chen Lingwei; Zhou Shengtao; Hu Gang; Ou Jinping, A new controllable weak recycling inflow turbulence generator for evaluating wind effects on building in LES[J]. ***Engineering Structures***, 2024, 318: 118742. https://doi.org/10.1016/j.engstruct.2024.118742. 影响因子: 5.6 (Q1). 中科院分区: 1.
+[58] Wang Jinghan; **Li Chao***; Chen Lingwei; Zhou Shengtao*; Hu Gang; Ou Jinping, A new controllable weak recycling inflow turbulence generator for evaluating wind effects on building in LES[J]. ***Engineering Structures***, 2024, 318: 118742. https://doi.org/10.1016/j.engstruct.2024.118742. 影响因子: 5.6 (Q1). 中科院分区: 1.
 
 .. _ref-tang20240:
 
-[57] Tang Lingxiao; **Li Chao**; Zhao Zihan; Xiao Yiqing; Chen Shenpeng, Super-resolution reconstruction of wind fields with a swin-transformer-based deep learning framework[J]. ***Physics of Fluids***, 2024, 36(12): 125110. https://doi.org/10.1063/5.0237112. 影响因子: 4.1 (Q1). 中科院分区: 2. 引用次数: 1 citation(s).
+[57] Tang Lingxiao; **Li Chao**; Zhao Zihan*; Xiao Yiqing; Chen Shenpeng, Super-resolution reconstruction of wind fields with a swin-transformer-based deep learning framework[J]. ***Physics of Fluids***, 2024, 36(12): 125110. https://doi.org/10.1063/5.0237112. 影响因子: 4.1 (Q1). 中科院分区: 2. 引用次数: 1 citation(s).
 
 .. _ref-liu20240:
 
-[56] Liu Shizeng; Zhang Wentong; Li Qiang; Yan Shicheng; Zhang Shihong; **Li Chao**; Li Lixiao, Engineering method for quantifying the coupling effect of transmission tower-line system under strong winds[J]. ***Journal of Wind Engineering and Industrial Aerodynamics***, 2024, 255: 105954. https://doi.org/10.1016/j.jweia.2024.105954. 影响因子: 4.2 (Q1). 中科院分区: 2. 引用次数: 2 citation(s).
+[56] Liu Shizeng; Zhang Wentong*; Li Qiang; Yan Shicheng; Zhang Shihong; **Li Chao**; Li Lixiao, Engineering method for quantifying the coupling effect of transmission tower-line system under strong winds[J]. ***Journal of Wind Engineering and Industrial Aerodynamics***, 2024, 255: 105954. https://doi.org/10.1016/j.jweia.2024.105954. 影响因子: 4.2 (Q1). 中科院分区: 2. 引用次数: 2 citation(s).
 
 .. _ref-liu20241:
 
