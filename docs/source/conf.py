@@ -35,7 +35,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['../_static']
 html_css_files = ['custom.css']
 
-html_logo = "../_static/logo.svg"  # Logo 文件需放置于 _static 目录
+html_logo = "../_static/logoGroup.png"  # Logo 文件需放置于 _static 目录
 html_title = "Wind & Ocean Engineering<br><span style='color: #666;'>empowered by</span><br><span style='color: #666;'>AI</span>"
 
 # -- Options for EPUB output
