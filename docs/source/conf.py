@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Wind & Ocean Engineering empowered by AI'  
+project = 'Wind & Ocean Engineering empowered by AI'
 copyright = '2025, Wind & Ocean Engineering empowered by AI Group'
 author = 'Li Chao'
 
@@ -31,6 +31,9 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_rtd_theme'
 
+# Add custom CSS file
+html_static_path = ['../_static']
+html_css_files = ['custom.css']
 
 html_logo = "../_static/logo.svg"  # Logo 文件需放置于 _static 目录
 html_title = "Wind & Ocean Engineering<br><span style='color: #666;'>empowered by</span><br><span style='color: #666;'>AI</span>"

@@ -1,0 +1,16 @@
+/* Custom styles to increase page width in Read the Docs theme */
+
+/* Increase the width of the main content container */
+.wy-nav-content {
+    max-width: 1200px !important;  /* Default is 800px */
+}
+
+/* Adjust the table width to match the new container width */
+.wy-table-responsive table td, .wy-table-responsive table th {
+    white-space: normal;
+}
+
+/* Make sure code blocks don't overflow */
+.highlight {
+    overflow-x: auto;
+}
