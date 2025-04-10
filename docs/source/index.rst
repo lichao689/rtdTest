@@ -1,4 +1,4 @@
-Welcome to Wind & Ocean Engineering empowered by AI Group!
+Welcome to Wind & Ocean Engineering empowered by AI Group! 
 ==============================================================
 
 
@@ -22,6 +22,7 @@ Welcome to Wind & Ocean Engineering empowered by AI Group!
 
 .. attention::
    欢迎踏实上进，有强烈求知欲望，创新探索精神，愿意为工程技术创新付出努力的同学加入。
+
    尤其欢迎有读博意愿的同学加入。
 
 科研兴趣 Research Interests
