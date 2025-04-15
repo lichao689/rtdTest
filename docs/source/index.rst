@@ -1,4 +1,4 @@
-Welcome to the Group of Wind & Ocean Engineering empowered by AI! 
+Welcome to the Group of Wind & Ocean Engineering empowered by AI (WOEAI)! 
 ====================================================================
 
 
