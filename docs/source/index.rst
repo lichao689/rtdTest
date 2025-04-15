@@ -91,8 +91,8 @@ how to :ref:`installation` the project.
 
 .. image:: ../_static/lcWeChatMatrixCode01.png
    :alt: scan me for wechat
-   :width: 600px
-   :align: center
+   :width: 166px
+   :align: left
 
 
 
