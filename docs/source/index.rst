@@ -1,5 +1,5 @@
-Welcome to Wind & Ocean Engineering empowered by AI Group! 
-==============================================================
+Welcome to the Group of Wind & Ocean Engineering empowered by AI! 
+====================================================================
 
 
 
