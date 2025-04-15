@@ -24,12 +24,14 @@ Welcome to Wind & Ocean Engineering empowered by AI Group!
 博士后 postdoctoral recruitment
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-博士后招收条件：
+希望你
+
 1.	年龄在35岁以下（含35岁，即未到36岁生日）； 
 2.	获得土木工程或海洋工程及其相关的博士学位，且获学位时间一般不超过3年；
 3.	已在国际期刊发表SCI一篇及以上。
 
-博士后待遇：
+待遇
+
 1.	年薪：32万以上（含18万元深圳市政府免税补贴）；
 2.	福利：享受五险一金、可租住深圳市人才公寓（或享受深圳市政府租房补贴）、落户深圳（配偶、子女可随迁）；
 3.	出站留深奖励：博士后出站留深工作可享受深圳市政府30万元科研资助；
@@ -80,4 +82,18 @@ how to :ref:`installation` the project.
    Publications
    usage
    api
+
+
+与我联系 Contact Me
+=====================
+
+- mail: lichaosz@hit.edu.cn
+
+.. image:: /_static/lcWeChatMatrixCode01.png
+   :alt: scan me for wechat
+   :width: 600px
+   :align: center
+
+
+
 
