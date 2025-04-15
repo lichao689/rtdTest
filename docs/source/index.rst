@@ -89,7 +89,7 @@ how to :ref:`installation` the project.
 
 - mail: lichaosz@hit.edu.cn
 
-.. image:: /_static/lcWeChatMatrixCode01.png
+.. image:: ../_static/lcWeChatMatrixCode01.png
    :alt: scan me for wechat
    :width: 600px
    :align: center
